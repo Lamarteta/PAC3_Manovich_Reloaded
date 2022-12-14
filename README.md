@@ -37,6 +37,9 @@ El objetivo de esta exposición es acercar la obra del artista holandés desde u
 
   En esta exposición los cuadros no están montados sobre lienzos, sino que las paredes son pantallas de grandes dimensiones sobre las que se proyectan las obras del pintor, al igual que en el suelo para crear una atmósfera envolvente para dar la sensación de estar dentro de un cuadro del famoso pintor holandés. La exposición pretende resaltar no tanto la obra del pintor desde una perspectiva más académica,si no que pretende que el espectador sea consciente y partícipe de los estados de ánimo del autor.
 
+<img src="https://creativecommons.org/wp-content/uploads/2017/07/van_gogh.jpg">
+*Wheat Field with Cypresses” by Vincent van Gogh (Dutch, Zundert 1853–1890 Auvers-sur-Oise) via The Metropolitan Museum of Art is licensed under CC0 1.0*
+
 ## LA REMEDIACIÓN EN LA EXPOSICIÓN VAN GOGH EXPERIENCE
 
 Esta exposición se puede tomar como un claro ejemplo de hibridación definida por Lev Manovich, ya que combina distintas técnicas digitales como son la proyección de las obras hechas con inteligencia artificial, el sistema acústico direccional, que funciona acorde al movimiento del espectador durante su visita a la exposición y la liberación de olores para evocar los ambientes en los que Van Gogh creó sus pinturas.
