@@ -8,10 +8,8 @@ La **hibridación de medios** consiste en la combinación de dos o más medios d
 El proceso de remediación-fusión de medios va más allá de la multimedia. Hay una fusión entre los elementos que comparte las técnicas de software y las interficies generando una experiencia nueva y coherente, que es diferente a la experimentación de los elementos por separado.
 
   
-
 Cuando este soporte/medio o técnica pasa a formar parte del mundo de las representaciones numéricas, se pueden realizar múltiples combinaciones, mutaciones, etc. o lo que se conoce como **hibridaciones**.
 
-  
 
 Con la llegada de las nuevas tecnologías y la revolución digital que se inició a finales de 1950 y finales de los 70 que *Lev Manovich* hace referencia en su libro **El software toma el mando** y la expansión y crecimiento que está teniendo la inteligencia artificial en diferentes medios, como por ejemplo, el mundo artístico o en la redacción de artículos para diferentes medios tradicionales, cabría preguntarse en qué momento la **IA** comenzó a adentrarse en nuestras vidas y preguntarnos, con más atención, qué impacto puede tener en la hibridación de medios y cómo podemos apoyarnos en esta para mantener un equilibrio en el rediseño de nuevos medios donde intervenga la IA sin llegar a absorber el resto de medios.
 
