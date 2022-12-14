@@ -1,5 +1,5 @@
 # PAC3_Manovich_Reloaded
-PAC 3 - Cultura digital - Grado en Técnicas de Interacción Digital y Multimedia.
+PAC 3 - Cultura digital - Grado en Técnicas de Interacción Digital y Multimedia.</br>
 Autora: Marta Esteban Lafulla.
 # LA HIBRIDACIÓN SEGÚN MANOVICH 
 
