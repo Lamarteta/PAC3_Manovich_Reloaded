@@ -77,6 +77,9 @@ Es bastante probable que en un futuro Ingress se acabe convirtiendo en una fuent
 
 Ingress se creó originalmente para Android y desde Julio de 2014 está disponible para IOS DE Apple.
 
+<img src="https://i.blogs.es/58f793/ingress1/1024_2000.webp">
+<i>Fuente de la imagen: https://www.vidaextra.com/cine/ingress-the-animation-juego-niantic-llegara-netflix-clave-anime</i>
+
 ## El futuro de Ingress Prime
 
  Desde el lanzamiento de Ingress, al que le han seguido otros videojuegos que utilizan la realidad aumentada, los creadores han desarrollado Ingress Prime, para el que han añadido nuevos gráficos, mejorando el motor de realidad aumentada con una nueva historia.
