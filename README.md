@@ -1,5 +1,6 @@
 # PAC3_Manovich_Reloaded
-PAC 3 - Cultura digital - Grado en Técnicas de Interacción Digital y Multimedia
+PAC 3 - Cultura digital - Grado en Técnicas de Interacción Digital y Multimedia.
+Autora: Marta Esteban Lafulla.
 # LA HIBRIDACIÓN SEGÚN MANOVICH 
 
 La **hibridación de medios** consiste en la combinación de dos o más medios de diferente tipo y que puede que no tengan ninguna relación intrínseca entre sí. Es decir, se trata de re mezclar diferentes medios con el objetivo de obtener como resultado de estas combinaciones diferentes formas y que se puedan identificar los medios que constituyen este nuevo resultado.
